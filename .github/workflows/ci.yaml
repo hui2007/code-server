@@ -3,7 +3,7 @@ name: Build
 on:
   push:
     branches:
-      - oxy/armv7
+      - main
   pull_request:
     branches:
       - main
